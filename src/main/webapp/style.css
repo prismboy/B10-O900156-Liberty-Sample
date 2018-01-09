@@ -24,7 +24,7 @@ a:hover {
 	display: block;
 	margin: 0 auto;
 	padding-bottom: 2em;
-	max-width:200px;
+	max-width:300px;
 }
 
 h1 {
@@ -86,4 +86,3 @@ pre {
 	padding: 0;
 	margin: 0;
 }
-
